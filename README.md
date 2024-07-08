@@ -26,9 +26,17 @@ Ensure you have the following installed:
 - **Recipe Details**: When a user selects a recipe, detailed information including ingredients and instructions are fetched and displayed.
 - **Search Feature**: Users can search for desserts by name, and the list is dynamically filtered based on the search query.
 
-![simulator_screenshot_A2D0998C-E49E-41DA-940C-A8548DC34669] (![simulator_screenshot_EB566FBC-38CD-47C9-B9BD-A534CC51770A](https://github.com/rimsharizv/Dessert-Dash/assets/78344946/57158044-5aed-45ac-8ecb-77fcb6e177a1)
+## Images
 
-![simulator_screenshot_E3C19383-EC97-4FE3-A0BD-BB574A896C48](https://github.com/rimsharizv/Dessert-Dash/assets/78344946/08f242c8-cb7c-469b-bd32-83c6e25687dd) ![simulator_screenshot_74218459-BDCF-4202-89FE-B9B033303AF0](https://github.com/rimsharizv/Dessert-Dash/assets/78344946/19c1ad87-2fec-4229-9219-a53b52c6ec8b)
+<p align="center">
+  <img src="https://github.com/rimsharizv/Dessert-Dash/assets/78344946/81cb4bbf-f834-46ea-8603-ed01cb97a75b" alt="simulator_screenshot_A2D0998C-E49E-41DA-940C-A8548DC34669" width="300"/>
+  <img src="https://github.com/rimsharizv/Dessert-Dash/assets/78344946/57158044-5aed-45ac-8ecb-77fcb6e177a1" alt="simulator_screenshot_A2D0998C-E49E-41DA-940C-A8548DC34669" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github.com/rimsharizv/Dessert-Dash/assets/78344946/08f242c8-cb7c-469b-bd32-83c6e25687dd" alt="simulator_screenshot_E3C19383-EC97-4FE3-A0BD-BB574A896C48" width="300"/>
+  <img src="https://github.com/rimsharizv/Dessert-Dash/assets/78344946/19c1ad87-2fec-4229-9219-a53b52c6ec8b" alt="simulator_screenshot_74218459-BDCF-4202-89FE-B9B033303AF0" width="300"/>
+</p>
+
 
 
 
