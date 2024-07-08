@@ -2,7 +2,7 @@
 Author: Rimsha Rizvi
 
 ## Description
-Dessert Dash is a delightful iOS application that allows users to browse and discover dessert recipes. Using the MealDB API, the app fetches a variety of dessert recipes, displaying them in an easy-to-use interface. Users can view details of each recipe, including ingredients and instructions, with a focus on simplicity and user-friendliness.
+Dessert Dash is an iOS application that allows users to browse and discover dessert recipes. Using the MealDB API, the app fetches a variety of dessert recipes, displaying them in an easy-to-use interface. Users can view details of each recipe, including ingredients and instructions, with a focus on simplicity and user-friendliness.
 
 ## Key Features
 - **Recipe Browsing**: Browse a list of dessert recipes fetched from the MealDB API.
