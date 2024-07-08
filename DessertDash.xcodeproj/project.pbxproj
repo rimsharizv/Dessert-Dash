@@ -14,6 +14,9 @@
 		C6E7A5DC2C3A906200415D91 /* DessertDashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6E7A5DB2C3A906200415D91 /* DessertDashTests.swift */; };
 		C6E7A5E62C3A906300415D91 /* DessertDashUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6E7A5E52C3A906300415D91 /* DessertDashUITests.swift */; };
 		C6E7A5E82C3A906300415D91 /* DessertDashUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6E7A5E72C3A906300415D91 /* DessertDashUITestsLaunchTests.swift */; };
+		C6E7A5F52C3B295400415D91 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6E7A5F42C3B295400415D91 /* Meal.swift */; };
+		C6E7A5F92C3B2C6600415D91 /* MealInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6E7A5F82C3B2C6600415D91 /* MealInfo.swift */; };
+		C6E7A5FB2C3B61B600415D91 /* MealDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6E7A5FA2C3B61B600415D91 /* MealDB.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,10 @@
 		C6E7A5E12C3A906200415D91 /* DessertDashUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DessertDashUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6E7A5E52C3A906300415D91 /* DessertDashUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertDashUITests.swift; sourceTree = "<group>"; };
 		C6E7A5E72C3A906300415D91 /* DessertDashUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertDashUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C6E7A5F42C3B295400415D91 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		C6E7A5F82C3B2C6600415D91 /* MealInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealInfo.swift; sourceTree = "<group>"; };
+		C6E7A5FA2C3B61B600415D91 /* MealDB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDB.swift; sourceTree = "<group>"; };
+		C6E7A6002C3B7AD600415D91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +101,12 @@
 		C6E7A5C92C3A905F00415D91 /* DessertDash */ = {
 			isa = PBXGroup;
 			children = (
+				C6E7A6002C3B7AD600415D91 /* Info.plist */,
 				C6E7A5CA2C3A905F00415D91 /* DessertDashApp.swift */,
+				C6E7A5F82C3B2C6600415D91 /* MealInfo.swift */,
 				C6E7A5CC2C3A905F00415D91 /* ContentView.swift */,
+				C6E7A5FA2C3B61B600415D91 /* MealDB.swift */,
+				C6E7A5F42C3B295400415D91 /* Meal.swift */,
 				C6E7A5CE2C3A906200415D91 /* Assets.xcassets */,
 				C6E7A5D02C3A906200415D91 /* Preview Content */,
 			);
@@ -258,6 +269,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6E7A5CD2C3A905F00415D91 /* ContentView.swift in Sources */,
+				C6E7A5F92C3B2C6600415D91 /* MealInfo.swift in Sources */,
+				C6E7A5F52C3B295400415D91 /* Meal.swift in Sources */,
+				C6E7A5FB2C3B61B600415D91 /* MealDB.swift in Sources */,
 				C6E7A5CB2C3A905F00415D91 /* DessertDashApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +438,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"DessertDash/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DessertDash/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -452,6 +467,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"DessertDash/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DessertDash/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
