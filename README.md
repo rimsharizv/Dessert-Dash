@@ -21,11 +21,6 @@ Ensure you have the following installed:
 - Xcode (latest version)
 - macOS
 
-## Implementation Details
-- **Recipe List**: The list of dessert recipes is fetched from the MealDB API and displayed in a sorted, alphabetical order.
-- **Recipe Details**: When a user selects a recipe, detailed information including ingredients and instructions are fetched and displayed.
-- **Search Feature**: Users can search for desserts by name, and the list is dynamically filtered based on the search query.
-
 ## Images
 
 <p align="center">
